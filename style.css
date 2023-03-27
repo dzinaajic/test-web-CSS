@@ -13,6 +13,7 @@ body {
   padding: 110px;
   text-align: center;
   background-image: url("images/landscape-test-css.jpg");
+  background-repeat: no-repeat;
 }
 
 /* Increase the font size of the heading */
